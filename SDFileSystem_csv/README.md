@@ -17,18 +17,18 @@ You should add mbed_app.json and custom_targets.json into your root directory an
 ## Directory (ディレクトリ構成)
 ```
 .
-├── SDFileSystem
-|   ├── SDFileSystem.cpp
-|   ├── SDFileSystem.h
-|
-├── compile_commands.json
-├── custom_tagets.json
-├── main.cpp
-├── mbed_app.json
-├── mbed-os
-├── MPU6050.h
-├── SDFileSystem.lib
-└── README.md
+├── SDFileSystem<br>
+|   ├── SDFileSystem.cpp<br>
+|   ├── SDFileSystem.h<br>
+|<br>
+├── compile_commands.json<br>
+├── custom_tagets.json<br>
+├── main.cpp<br>
+├── mbed_app.json<br>
+├── mbed-os<br>
+├── MPU6050.h<br>
+├── SDFileSystem.lib<br>
+└── README.md<br>
 ```
 
 ## Environments (開発環境)
